@@ -3,7 +3,7 @@
     "start": "ts-node-dev --respawn src/index.ts"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "typescript": "^3.9.5"
   },
   "devDependencies": {
